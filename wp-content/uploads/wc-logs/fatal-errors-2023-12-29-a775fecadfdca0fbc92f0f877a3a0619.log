@@ -1,0 +1,4 @@
+2023-12-29T04:28:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\shop\wp-includes\class-wpdb.php en la línea 1457
+
+2023-12-29T04:37:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\shop\wp-includes\Requests\src\Transport\Curl.php en la línea 510
+
